@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
-<h3 align="center">I am currently learning and doing Java Development .</h3>
+<h3 align="center">I am currently doing and learning Java Development</h3>
 <img align="right" alt="coding" width="270" src= "https://media.tenor.com/W9_8dfFmyr0AAAAM/pixel-game.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvugit&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvugit" /> </p>
 
 - 👯 I’m looking to collaborate on **Development in Java and Go and open source**
 
-- 💬 Ask me about **Software and tech**
+- 💬 Ask me about **Software and Tech**
 
 - 📫 How to reach me **dhruvu455@gmail.com**
 
