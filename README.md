@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
-<h3 align="center">I am currently learning Machine Learning & Deep learning along with python development.</h3>
+<h3 align="center">I am currently learning and doing Java Development .</h3>
 <img align="right" alt="coding" width="270" src= "https://media.tenor.com/W9_8dfFmyr0AAAAM/pixel-game.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvugit&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvugit" /> </p>
