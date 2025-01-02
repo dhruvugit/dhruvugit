@@ -8,18 +8,14 @@
 
 - 💬 Ask me about **Software and Tech**
 
-- 📫 How to reach me **dhruvu455@gmail.com**
+- 📫 How to reach me **dhruvu450@gmail.com**
 
 - ⚡ Fun fact **I am also Stock Market enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhruv06530767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv06530767" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhruv-upadhyay-a62637188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-upadhyay-a62637188" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/dhruvup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dhruvup" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhruv_leet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruv_leet/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhruvu455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhruvu455" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ramukakaready" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ramukakaready" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-upadhyay1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-upadhyay-a62637188" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
